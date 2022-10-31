@@ -1,0 +1,17 @@
+<?php
+
+	require_once('main.php');
+	
+	$conn = db_connect();
+	
+	Display_Title();
+	
+	Background_Page();
+	
+	include("header2.php");
+	
+	$f=2;
+	$year=GetMaxYear();
+
+	MainDisplay($uncode1,$CollegeCode1,$f,$year);//CollegeMethod.php
+?>

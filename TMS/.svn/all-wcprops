@@ -1,0 +1,731 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/tms-sys/!svn/ver/16/TMS1.1.0/TMS
+END
+AdminChangeStartTime.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/AdminChangeStartTime.php
+END
+db_fns.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/tms-sys/!svn/ver/25/TMS1.1.0/TMS/db_fns.php
+END
+insert_Location.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/insert_Location.php
+END
+Colleges.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/Colleges.php
+END
+selectYear.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/selectYear.php
+END
+insertTeacher.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/insertTeacher.php
+END
+InsertNoStud.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/InsertNoStud.php
+END
+updateBuild.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/updateBuild.php
+END
+Departs.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/Departs.php
+END
+DeptManage.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/tms-sys/!svn/ver/25/TMS1.1.0/TMS/DeptManage.php
+END
+CollegeStartTime.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/CollegeStartTime.php
+END
+bull2_ripple.gif
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/bull2_ripple.gif
+END
+insertManage.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/insertManage.php
+END
+displaytable.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/displaytable.php
+END
+Method.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/Method.php
+END
+university.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/university.php
+END
+ConfigDept.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/ConfigDept.php
+END
+ConfigBuilding.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/ConfigBuilding.php
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/main.php
+END
+TMSR.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/TMSR.php
+END
+changeStud.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/changeStud.php
+END
+DisplaySubject.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/DisplaySubject.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/header.php
+END
+DepttManage.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/DepttManage.php
+END
+AddAcadProg.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/AddAcadProg.php
+END
+back.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/back.jpg
+END
+ChangePasswdForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/ChangePasswdForm.php
+END
+abstractCollege.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/abstractCollege.php
+END
+ConfigNewYear.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/ConfigNewYear.php
+END
+PrintAdminReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/PrintAdminReport.php
+END
+abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/abstract.php
+END
+AcadDegree.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/AcadDegree.php
+END
+DisplayUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/DisplayUser.php
+END
+report.JPG
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/report.JPG
+END
+DisplayMForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/DisplayMForm.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/index.php
+END
+bull1_ripple.gif
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/bull1_ripple.gif
+END
+background_ripple.gif
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/background_ripple.gif
+END
+SchangeStud.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/SchangeStud.php
+END
+Location_method.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/Location_method.php
+END
+Page_layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/Page_layout.php
+END
+TMS-Manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/TMS-Manager.php
+END
+DisplayDeptSec.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/DisplayDeptSec.php
+END
+subForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/tms-sys/!svn/ver/25/TMS1.1.0/TMS/subForm.php
+END
+SpecifyBuilding.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/SpecifyBuilding.php
+END
+InsertDegree.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/InsertDegree.php
+END
+University_Method.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/University_Method.php
+END
+DeptSection.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/DeptSection.php
+END
+InsertDept.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/InsertDept.php
+END
+SSubject.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/SSubject.php
+END
+DelBuilding.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/DelBuilding.php
+END
+Display_Building.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/Display_Building.php
+END
+CollegeManage.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/CollegeManage.php
+END
+sselectYear.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/sselectYear.php
+END
+updateUniv.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/updateUniv.php
+END
+llogout.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/llogout.php
+END
+AcadMDeg.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/AcadMDeg.php
+END
+deleteLec.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/deleteLec.php
+END
+SuccDirect.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/SuccDirect.php
+END
+BuildingReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/BuildingReport.php
+END
+warnningMsg.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/warnningMsg.php
+END
+IUBuilding.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/IUBuilding.php
+END
+RegYear.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/RegYear.php
+END
+ChooseLab.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/ChooseLab.php
+END
+InsertCollege.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/InsertCollege.php
+END
+FixedName.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/FixedName.php
+END
+NoOFStud.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/NoOFStud.php
+END
+AdReport1.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/AdReport1.php
+END
+displayttable.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/displayttable.php
+END
+AdReport2.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/AdReport2.php
+END
+sFormDept.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/sFormDept.php
+END
+AdReport3.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/AdReport3.php
+END
+ChooseLec.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/ChooseLec.php
+END
+welcomeAdmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/welcomeAdmin.php
+END
+StudOnAcadDeg.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/StudOnAcadDeg.php
+END
+UniversityForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/UniversityForm.php
+END
+logout.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/logout.php
+END
+UnivLocation.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/UnivLocation.php
+END
+College_Method.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/College_Method.php
+END
+TMS-College.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/TMS-College.php
+END
+ripp1011.css
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/ripp1011.css
+END
+FormDept.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/FormDept.php
+END
+ExportToWord.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/ExportToWord.php
+END
+BuildingForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/BuildingForm.php
+END
+doFixed.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/doFixed.php
+END
+insertBuilding.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/insertBuilding.php
+END
+sinsertTeacher.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/sinsertTeacher.php
+END
+updateQualif.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/updateQualif.php
+END
+DisplayTeachers.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/DisplayTeachers.php
+END
+SInsertNoStud.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/SInsertNoStud.php
+END
+AcadReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/AcadReport.php
+END
+errorUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/errorUser.php
+END
+CollegForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/CollegForm.php
+END
+CollegeSubject.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/CollegeSubject.php
+END
+IinsertBuilding.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/IinsertBuilding.php
+END
+delete.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/delete.jpg
+END
+DeptResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/DeptResult.php
+END
+StudDept.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/StudDept.php
+END
+Dept_Method.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/tms-sys/!svn/ver/25/TMS1.1.0/TMS/Dept_Method.php
+END
+data_valid_fns.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/data_valid_fns.php
+END
+subject.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/subject.php
+END
+Thumbs.db
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/Thumbs.db
+END
+display_Loc.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/display_Loc.php
+END
+FinDisplay.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/FinDisplay.php
+END
+showDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/tms-sys/!svn/ver/25/TMS1.1.0/TMS/showDetail.php
+END
+InsertUniversity.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/InsertUniversity.php
+END
+change_passwd.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/change_passwd.php
+END
+supdateUniv.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/supdateUniv.php
+END
+header2.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/header2.php
+END
+bull3_ripple.gif
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/bull3_ripple.gif
+END
+print.gif
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/print.gif
+END
+Report_Method.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/Report_Method.php
+END
+header3.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/header3.php
+END
+PrintSubject.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/PrintSubject.php
+END
+icon_err.gif
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/icon_err.gif
+END
+warnningMsgT.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/warnningMsgT.php
+END
+AdminReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/AdminReport.php
+END
+ErrorPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/ErrorPage.php
+END
+welcomeCollege.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/welcomeCollege.php
+END
+DeptSecResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/DeptSecResult.php
+END
+CollegeBuilding.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/tms-sys/!svn/ver/8/TMS1.1.0/TMS/CollegeBuilding.php
+END

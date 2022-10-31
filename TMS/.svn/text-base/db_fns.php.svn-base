@@ -1,0 +1,18 @@
+<?php
+
+function db_connect()
+{
+	//Connect to Database
+	//---------------------
+	//DB Name:ManageTime
+	//username:TMS
+	//passwd:  TMS
+	//--------------------
+
+   $result =mysql_connect('localhost', 'TMS', 'TMS') or die ("cannot make the connection");
+
+   $db=mysql_select_db("ManageTime",$result) or die ("cannot connect to DB ");
+
+   }
+
+?>
